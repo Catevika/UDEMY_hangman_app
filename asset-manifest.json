@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UDEMY_hangman_app/static/css/main.92c41534.chunk.css",
+    "main.js": "/UDEMY_hangman_app/static/js/main.4e77364e.chunk.js",
+    "main.js.map": "/UDEMY_hangman_app/static/js/main.4e77364e.chunk.js.map",
+    "runtime~main.js": "/UDEMY_hangman_app/static/js/runtime~main.269aedb3.js",
+    "runtime~main.js.map": "/UDEMY_hangman_app/static/js/runtime~main.269aedb3.js.map",
+    "static/js/2.b7dd99f8.chunk.js": "/UDEMY_hangman_app/static/js/2.b7dd99f8.chunk.js",
+    "static/js/2.b7dd99f8.chunk.js.map": "/UDEMY_hangman_app/static/js/2.b7dd99f8.chunk.js.map",
+    "index.html": "/UDEMY_hangman_app/index.html",
+    "precache-manifest.4735bc8b45d20fd17ae970e15435e681.js": "/UDEMY_hangman_app/precache-manifest.4735bc8b45d20fd17ae970e15435e681.js",
+    "service-worker.js": "/UDEMY_hangman_app/service-worker.js",
+    "static/css/main.92c41534.chunk.css.map": "/UDEMY_hangman_app/static/css/main.92c41534.chunk.css.map",
+    "static/media/0.jpg": "/UDEMY_hangman_app/static/media/0.db9097e8.jpg",
+    "static/media/1.jpg": "/UDEMY_hangman_app/static/media/1.fbff4784.jpg",
+    "static/media/2.jpg": "/UDEMY_hangman_app/static/media/2.c4ea9528.jpg",
+    "static/media/3.jpg": "/UDEMY_hangman_app/static/media/3.62a781c8.jpg",
+    "static/media/4.jpg": "/UDEMY_hangman_app/static/media/4.0f8ca81e.jpg",
+    "static/media/5.jpg": "/UDEMY_hangman_app/static/media/5.1b557aa7.jpg",
+    "static/media/6.jpg": "/UDEMY_hangman_app/static/media/6.c80394c2.jpg"
+  }
+}
