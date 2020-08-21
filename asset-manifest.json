@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/UDEMY_hangman_app/static/css/main.92c41534.chunk.css",
-    "main.js": "/UDEMY_hangman_app/static/js/main.4e77364e.chunk.js",
-    "main.js.map": "/UDEMY_hangman_app/static/js/main.4e77364e.chunk.js.map",
-    "runtime~main.js": "/UDEMY_hangman_app/static/js/runtime~main.269aedb3.js",
-    "runtime~main.js.map": "/UDEMY_hangman_app/static/js/runtime~main.269aedb3.js.map",
-    "static/js/2.b7dd99f8.chunk.js": "/UDEMY_hangman_app/static/js/2.b7dd99f8.chunk.js",
-    "static/js/2.b7dd99f8.chunk.js.map": "/UDEMY_hangman_app/static/js/2.b7dd99f8.chunk.js.map",
+    "main.css": "/UDEMY_hangman_app/static/css/main.3e1a4ca4.chunk.css",
+    "main.js": "/UDEMY_hangman_app/static/js/main.8d5a7006.chunk.js",
+    "main.js.map": "/UDEMY_hangman_app/static/js/main.8d5a7006.chunk.js.map",
+    "runtime-main.js": "/UDEMY_hangman_app/static/js/runtime-main.235cf6cc.js",
+    "runtime-main.js.map": "/UDEMY_hangman_app/static/js/runtime-main.235cf6cc.js.map",
+    "static/js/2.e0d725ba.chunk.js": "/UDEMY_hangman_app/static/js/2.e0d725ba.chunk.js",
+    "static/js/2.e0d725ba.chunk.js.map": "/UDEMY_hangman_app/static/js/2.e0d725ba.chunk.js.map",
     "index.html": "/UDEMY_hangman_app/index.html",
-    "precache-manifest.4735bc8b45d20fd17ae970e15435e681.js": "/UDEMY_hangman_app/precache-manifest.4735bc8b45d20fd17ae970e15435e681.js",
+    "precache-manifest.cd7bb690575147a90f38a41f54d6b400.js": "/UDEMY_hangman_app/precache-manifest.cd7bb690575147a90f38a41f54d6b400.js",
     "service-worker.js": "/UDEMY_hangman_app/service-worker.js",
-    "static/css/main.92c41534.chunk.css.map": "/UDEMY_hangman_app/static/css/main.92c41534.chunk.css.map",
+    "static/css/main.3e1a4ca4.chunk.css.map": "/UDEMY_hangman_app/static/css/main.3e1a4ca4.chunk.css.map",
+    "static/js/2.e0d725ba.chunk.js.LICENSE.txt": "/UDEMY_hangman_app/static/js/2.e0d725ba.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/UDEMY_hangman_app/static/media/0.db9097e8.jpg",
     "static/media/1.jpg": "/UDEMY_hangman_app/static/media/1.fbff4784.jpg",
     "static/media/2.jpg": "/UDEMY_hangman_app/static/media/2.c4ea9528.jpg",
@@ -18,5 +19,11 @@
     "static/media/4.jpg": "/UDEMY_hangman_app/static/media/4.0f8ca81e.jpg",
     "static/media/5.jpg": "/UDEMY_hangman_app/static/media/5.1b557aa7.jpg",
     "static/media/6.jpg": "/UDEMY_hangman_app/static/media/6.c80394c2.jpg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.235cf6cc.js",
+    "static/js/2.e0d725ba.chunk.js",
+    "static/css/main.3e1a4ca4.chunk.css",
+    "static/js/main.8d5a7006.chunk.js"
+  ]
 }

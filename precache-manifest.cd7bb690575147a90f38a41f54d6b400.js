@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11c979c867cc0c3e40f7f810b1a07cdc",
+    "revision": "00144872f2c9847cd0d75acaf9ee9ea1",
     "url": "/UDEMY_hangman_app/index.html"
   },
   {
-    "revision": "c371fa1be6be83f884bf",
-    "url": "/UDEMY_hangman_app/static/css/main.92c41534.chunk.css"
+    "revision": "a95d6dc41707cccaf88a",
+    "url": "/UDEMY_hangman_app/static/css/main.3e1a4ca4.chunk.css"
   },
   {
-    "revision": "ded73dc3830fb2d80c34",
-    "url": "/UDEMY_hangman_app/static/js/2.b7dd99f8.chunk.js"
+    "revision": "b93800c69d07ad6d4b18",
+    "url": "/UDEMY_hangman_app/static/js/2.e0d725ba.chunk.js"
   },
   {
-    "revision": "c371fa1be6be83f884bf",
-    "url": "/UDEMY_hangman_app/static/js/main.4e77364e.chunk.js"
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/UDEMY_hangman_app/static/js/2.e0d725ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c2193574c0f4f38152c",
-    "url": "/UDEMY_hangman_app/static/js/runtime~main.269aedb3.js"
+    "revision": "a95d6dc41707cccaf88a",
+    "url": "/UDEMY_hangman_app/static/js/main.8d5a7006.chunk.js"
+  },
+  {
+    "revision": "961d754396cca9030d71",
+    "url": "/UDEMY_hangman_app/static/js/runtime-main.235cf6cc.js"
   },
   {
     "revision": "db9097e874e68b7ed7115ff05ffcb880",
